@@ -9,8 +9,9 @@
 
     <p>Due to the recent pandemic outbreak, almost everything is being done online now.
     <br>This is partially why we have come up with a solution for bookworms and novel lovers
-    alike, to provide an easily accessible platform for their reading needs.
-    <br>Users can search, browse through and select e-books that are available here.</p>
+    alike,
+    <br>to provide an easily accessible platform for their reading needs.
+    <br><br>Users can search, browse through and select e-books that are available here.</p>
 </body>
 </html>
 
